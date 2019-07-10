@@ -6,4 +6,4 @@ Elshaday Getachew ATR/9033/09 <br>
 Doni Abeje ATR/6860/09 <br>
 Chal Megeresa ATR/6239/09
 
-##You can find the laravel web project here https://github.com/DoniAbeje/Addis-News-Web.git
+## You can find the laravel web project from here https://github.com/DoniAbeje/Addis-News-Web.git
